@@ -1,1 +1,0 @@
-open nasarkama.local --user fxlevy --password Ih@ve1nas! -e " set ssl:verify-certificate false"
